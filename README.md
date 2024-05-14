@@ -10,7 +10,7 @@
 * Customer Signup
 * Admin | Customer Login
 
-** Customer Features **
+<h4>Customer Features</h4>
 * Customer Dashboard with listings fo all the cars
 * Book a car
 * Bookings History
@@ -46,6 +46,18 @@
 ![Login Page](imgs/login.png)
 
 ![SignUp Page](imgs/signup.png)
+
+![Admin Dashboard](imgs/admin-dashboard.png)
+
+![Post Car Page](imgs/post car.png)
+
+![UIpdate Car Page](imgs/update.png)
+
+![Search Car Page](imgs/search.png)
+
+![Bookings History Page](imgs/bookings.png)
+
+![Book A Car Page](imgs/book car.png)
 
 
 
