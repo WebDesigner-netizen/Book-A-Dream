@@ -49,7 +49,7 @@
 
 ![Admin Dashboard](imgs/admin-dashboard.png)
 
-![Post Car Page](imgs/post car.png)
+![Post Car Page](imgs/post_car.png)
 
 ![UIpdate Car Page](imgs/update.png)
 
@@ -57,7 +57,7 @@
 
 ![Bookings History Page](imgs/bookings.png)
 
-![Book A Car Page](imgs/book car.png)
+![Book A Car Page](imgs/book_car.png)
 
 
 
