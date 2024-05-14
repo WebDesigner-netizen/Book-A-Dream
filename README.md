@@ -52,14 +52,22 @@
 ![Book A Car Page](imgs/book_car.png)
 
 
-
 <h2>Languages Used</h2>
 
+
+* Spring Boot
+* Angular
 * HTML5
 * CSS3
+* SCSS
 * Javascript
-* jQuery
+* Typescript
+* Java
+* MySQL
+* Lombok
+* Ng Zorro (Angular UI)
 
 <h2>Status</h2>
 
 > Project - Complete
+> Additional Features May Be Implemented in Future
