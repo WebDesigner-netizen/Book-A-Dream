@@ -11,6 +11,7 @@
 * Admin | Customer Login
 
 <h4>Customer Features</h4>
+
 * Customer Dashboard with listings fo all the cars
 * Book a car
 * Bookings History
